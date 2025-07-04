@@ -8,3 +8,5 @@ Arxiv
 pymupdf
 wikipedia
 chromadb
+langchain_huggingface
+sentence_transformers

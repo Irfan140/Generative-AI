@@ -12,3 +12,4 @@ langchain_huggingface
 sentence_transformers
 faiss-cpu
 langchain_chroma
+streamlit

@@ -13,3 +13,7 @@ sentence_transformers
 faiss-cpu
 langchain_chroma
 streamlit
+validators==0.28.1
+youtube_transcript_api
+langchain_groq
+unstructured

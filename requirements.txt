@@ -23,3 +23,4 @@ datasets
 tiktoken
 openai
 PyPDF2
+gradio

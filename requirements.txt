@@ -18,3 +18,8 @@ youtube_transcript_api
 langchain_groq
 unstructured
 huggingface_hub
+cassio
+datasets
+tiktoken
+openai
+PyPDF2

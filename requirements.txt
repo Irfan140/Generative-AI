@@ -24,3 +24,6 @@ tiktoken
 openai
 PyPDF2
 gradio
+pinecone-client
+pinecone-text
+pinecone-notebooks
